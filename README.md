@@ -1,6 +1,6 @@
 ## Overview
 This solution repository includes,
-- Solution class `KeyPadPhoneProcessor.cs` containing the implementation of method `OldPhonePad(string)`.
+- Solution class `Processor/KeyPadPhoneProcessor.cs` containing the implementation of method `OldPhonePad(string)`.
 - The `Program.cs` file to debug the `KeyPadPhoneProcessor.OldPhonePad(string)` method using Console.
 - The `Tests` project for unit tests.
     - The `KeyPadPhoneProcessorTest.cs` file contains unit tests of a different scenarios including happy, unhappy and some edge cases.
